@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Lab3": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "Student/Create",
+      "applicationUrl": "http://localhost:5113",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

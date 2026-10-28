@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Lab4": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "Learner",
+      "applicationUrl": "http://localhost:5114",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
